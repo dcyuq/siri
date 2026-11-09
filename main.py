@@ -10,7 +10,7 @@ import embeds
 import os
 import asyncio
 
-BOT_NAME = "denia"
+BOT_NAME = "siri"
 
 ROOT = Path(__file__).resolve().parent
 COGS_DIR = ROOT / "cogs"
